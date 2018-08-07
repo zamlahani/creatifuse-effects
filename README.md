@@ -1,2 +1,2 @@
-# creatifuse-effects
-Javascript effects for creatifuse.id
+# Creatifuse
+Javascript effects for https://creatifuse.id
